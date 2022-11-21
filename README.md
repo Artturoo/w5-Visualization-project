@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
 # Visualization Project
 
-![portada] (https://discoverthenew.ituser.es/files/201604/analitica-datos.jpg)
+![portada](https://discoverthenew.ituser.es/files/201604/analitica-datos.jpg)
 
 
 ## Introducción:
@@ -45,9 +45,9 @@ En este caso, la comunidad autónoma con mayor precio del metro cuadrado es el P
 
 A continuación, tras el analisis entre el valor de la subasta y el precio del metro cuadrado, se concluye que:
 
-    - Al realizar la media del valor de cada subasta en cada comunidad autónoma, se aprecia un mayor valor de la subasta en Madrid con respecto al resto de comunidades. Pais Vasco le sigue con un 50% menos, llegando actualmente a una media de 400mil euros. Ambas comunidades autónomas cuentan con un elevado precio en el metro cuadrado.
+- Al realizar la media del valor de cada subasta en cada comunidad autónoma, se aprecia un mayor valor de la subasta en Madrid con respecto al resto de comunidades. Pais Vasco le sigue con un 50% menos, llegando actualmente a una media de 400mil euros. Ambas comunidades autónomas cuentan con un elevado precio en el metro cuadrado.
 
-    - Con los datos extraidos, se confirma que existe una relación significativa entre la media del precio del metro cuadrado en las comunidades autónomas con la media del valor de las subastas. A mayor precio de metro cuadrado se aprecia un mayor valor de la subasta. 
+- Con los datos extraidos, se confirma que existe una relación significativa entre la media del precio del metro cuadrado en las comunidades autónomas con la media del valor de las subastas. A mayor precio de metro cuadrado se aprecia un mayor valor de la subasta. 
 
 Sin embargo, con los datos obtenidos no hay evidencia que tanto el precio del metro cuadrado como el valor de la subasta, estén relacionados con una mayor crecimiento poblacional.
 
